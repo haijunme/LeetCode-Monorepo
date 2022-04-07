@@ -1,0 +1,3 @@
+[submodule "LeetCode-JAVA"]
+	path = LeetCode-JAVA
+	url = https://github.com/haijunme/LeetCode-JAVA.git
